@@ -10,10 +10,6 @@
   <li>Refactored logic in Decode() in order to eliminate whitespace so when comparing values they would pass tests</li>
 </ul>
 
-
-
-- 💬 Let's talk tech, **I'm always on the look out for new exciting opportunities, get in touch!**
-
 - 📫 Email: **me@cameronquayle.com**
 
 <h3 align="left">Connect with me:</h3>
