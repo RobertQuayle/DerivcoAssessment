@@ -3,6 +3,8 @@
 
 Derivco Technical Assessment - Robert Cameron Quayle 03/04/2022
 
+.NET Version = 5.0
+
 Below is a detailed overview of useful information regarding my assessment.
 
 Just want to mention, incase this assessment is being timed, that I probably could of completed this sooner however I was in London over the weekend when it was sent and I work during the day.
