@@ -6,8 +6,9 @@
 <ul>
   <li>Created Encoding Class</li>
   <li>Moved all provided functionallity into new static class abstracting where possible by making methods private</li>
-  <li>Corrected a few syntax errors (explicit casting error and missing break within switch case)</li>
+  <li>Corrected a few syntax errors (explicit casting error, missing break within switch case and the array out of bounds errors)</li>
   <li>Refactored logic in Decode() in order to eliminate whitespace so when comparing values they would pass tests</li>
+  <li>Created some basic NUnit Tests</li>
 </ul>
 
 - 📫 Email: **me@cameronquayle.com**
