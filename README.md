@@ -48,6 +48,14 @@ HighCard gameOne = new(range, sets);
 HighCard gameTwo = new(null, null, true, true, true);
 ```
 
+When ready to play, simply invoke the instance of HighCard you created sith the Play() method like so:
+
+```C#
+HighCard game = new();
+
+game.Play();
+```
+
 - 📫 Email: **me@cameronquayle.com**
 
 <h3 align="left">Connect with me:</h3>
