@@ -10,7 +10,7 @@ Just want to mention, incase this assessment is being timed, that I probably cou
 Would also just like to say to anyone reading this, regardless if I make it to the next round of the interviewing process or not, I would really appriciate any feedback that you might have to help improve my coding abilities, that's worth its weight in gold and I thank you in advance!
 
 Many thanks!
--Cameron.
+Cameron.
 
 <h3>Question 1: Change Log</h3>
 <ul>
