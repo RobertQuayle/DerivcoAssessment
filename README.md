@@ -1,10 +1,16 @@
 <h1 align="center">Hello World! 🚀, I'm Cameron</h1>
 <h3 align="center">A Full-Stack Software Developer from The Isle of Man 🇮🇲</h3>
 
-First attempt at Question One. Still need to do Questions 2 & 3. I'll also go back and see if I can refactor Question One anymore, this is just a first pass I managed to get done while on the plane back from London.
+Derivco Technical Assessment - Robert Cameron Quayle 03/04/2022
 
-Thanks,
-Cameron.
+Below is a detailed overview of useful information regarding my assessment.
+
+Just want to mention, incase this assessment is being timed, that I probably could of completed this sooner however I was in London over the weekend when it was sent and I work during the day.
+
+Would also just like to say to anyone reading this, regardless if I make it to the next round of the interviewing process or not, I would really appriciate any feedback that you might have to help improve my coding abilities, that's worth its weight in gold and I thank you in advance!
+
+Many thanks!
+-Cameron.
 
 <h3>Question 1: Change Log</h3>
 <ul>
