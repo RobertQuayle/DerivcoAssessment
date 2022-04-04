@@ -18,7 +18,7 @@ Cameron.
   <li>Created some basic NUnit Tests</li>
 </ul>
 
-```
+```C#
 // To play HighCard firstly you must create a new game instance like so:
 HighCard name = new();
 ```
