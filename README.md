@@ -3,10 +3,10 @@
 
 
 <h3>Change Log: 03/04/2022 v1.0.0</h3>
-+ Created Encoding Class
-+ Moved all provided functionallity into new static class abstracting where possible by making methods private
-+ Corrected a few syntax errors (explicit casting error and missing break within switch case)
-+ Refactored logic in Decode() in order to eliminate whitespace so when comparing values they would pass tests
+- Created Encoding Class
+- Moved all provided functionallity into new static class abstracting where possible by making methods private
+- Corrected a few syntax errors (explicit casting error and missing break within switch case)
+- Refactored logic in Decode() in order to eliminate whitespace so when comparing values they would pass tests
 
 
 
