@@ -38,7 +38,7 @@ HighCard gameOne = new();
 HighCard gameTwo = new(range, sets, true, true, true);
 ```
 
-NOTE: TO skip range/sets parameters, use Null as the input, it will be ignored. Any missing paramaters will be set to default:
+NOTE: To skip range/sets parameters, use Null as the input, it will be ignored. Any missing paramaters will be set to default:
 
 ```C#
 // Bool params are set to default as only two are declared:
