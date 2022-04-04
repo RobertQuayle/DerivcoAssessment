@@ -25,10 +25,10 @@ To play HighCard firstly you must create a new game instance like so:
 HighCard name = new();
 ```
 
-You can use parameters to alter how toe game plays. there are 5 optional parameters with the types as shown below in order:
+You can use parameters to alter how the game plays. There are 5 optional parameters with the types as shown below in order:
 
 ```C#
-HighCard name = new(string[], string[], bool, bool, bool);
+HighCard name = new(string[] range, string[] sets, bool compareSets, bool noTie, bool wildcard);
 ```
 
 - 📫 Email: **me@cameronquayle.com**
