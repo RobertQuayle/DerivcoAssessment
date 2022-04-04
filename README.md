@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! 🚀, I'm Cameron</h1>
-<h3 align="center">A Full-Stack Software Developer from The Isle of Man 🇮🇲</h3>
+<h1 align="center">Hello World! 🚀</h1>
+<h3 align="center">I'm Cameron, A Full-Stack Software Developer from The Isle of Man 🇮🇲</h3>
 
 .NET Version = 5.0
 
