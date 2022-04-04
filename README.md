@@ -6,7 +6,7 @@ First attempt at Question One. Still need to do Questions 2 & 3. I'll also go ba
 Thanks,
 Cameron.
 
-<h3>Change Log: 03/04/2022 v1.0.0</h3>
+<h3>Question 1: Change Log</h3>
 <ul>
   <li>Created Encoding Class</li>
   <li>Moved all provided functionallity into new static class abstracting where possible by making methods private</li>
@@ -18,8 +18,9 @@ Cameron.
   <li>Created some basic NUnit Tests</li>
 </ul>
 
+<h3>Question 2: Usage Guide</h3>
+To play HighCard firstly you must create a new game instance like so:
 ```C#
-// To play HighCard firstly you must create a new game instance like so:
 HighCard name = new();
 ```
 
