@@ -62,6 +62,9 @@ HighCard game = new();
 game.Play();
 ```
 
+<h3>Question 3: Design Overview</h3>
+See: QuestionThree.txt
+
 - 📫 Email: **me@cameronquayle.com**
 
 <h3 align="left">Connect with me:</h3>
