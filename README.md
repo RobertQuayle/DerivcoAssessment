@@ -7,7 +7,7 @@ Below is a detailed overview of useful information regarding my assessment.
 
 Just want to mention, incase this assessment is being timed, that I probably could of completed this sooner however I was in London over the weekend when it was sent and I work during the day.
 
-Would also just like to say to anyone reading this, regardless if I make it to the next round of the interviewing process or not, I would really appriciate any feedback that you might have to help improve my coding abilities, that's worth its weight in gold and I thank you in advance!
+Would also just like to say to anyone reading this, regardless if I make it to the next round of the interviewing process or not, I would really appriciate any feedback that you might have to help improve my code, that's worth its weight in gold and I thank you in advance!
 
 Many thanks!
 Cameron.
