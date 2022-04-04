@@ -20,6 +20,7 @@ Cameron.
 
 <h3>Question 2: Usage Guide</h3>
 To play HighCard firstly you must create a new game instance like so:
+
 ```C#
 HighCard name = new();
 ```
