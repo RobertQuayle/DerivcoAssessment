@@ -18,6 +18,11 @@ Cameron.
   <li>Created some basic NUnit Tests</li>
 </ul>
 
+```
+// To play HighCard firstly you must create a new game instance like so:
+HighCard name = new();
+```
+
 - 📫 Email: **me@cameronquayle.com**
 
 <h3 align="left">Connect with me:</h3>
