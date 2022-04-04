@@ -1,6 +1,10 @@
 <h1 align="center">Hello World! 🚀, I'm Cameron</h1>
 <h3 align="center">A Full-Stack Software Developer from The Isle of Man 🇮🇲</h3>
 
+First attempt at Question One. Still need to do Questions 2 & 3. I'll also go back and see if I can refactor Question One anymore, this is just a first pass I managed to get done while on the plane back from London.
+
+Thanks,
+Cameron.
 
 <h3>Change Log: 03/04/2022 v1.0.0</h3>
 <ul>
