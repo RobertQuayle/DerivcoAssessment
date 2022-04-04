@@ -5,3 +5,7 @@ Apart from the "Scope" which was defined in the question's wording, the only oth
 So with all this in mind I headed to my whiteboard to visualize how I was going to make this work. I started by considering the four pillars of Object Orientated Development: Abstraction, Encapsulation, Inheritance & Polymorphism.
 
 Based off the Scope and question wording, I determined that what was mainly being asked of me was to create something polymorphic, while abstracting where possible.
+
+As stated, the project needs to be able to support multiple decks and deck ranges (20 was specified in this case).
+
+Straight away, my first thought is that this needs to be an instantiable class template. Capable of taking custom inputs which modify it's behaviour, meaning that from this one class, we could create unlimited versions of HighCard with different value ranges, sets and optional functionality such as the Wildcard.
