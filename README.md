@@ -65,7 +65,7 @@ game.Play();
 ```
 
 <h3>Question 3: Design Overview</h3>
-See: QuestionThree.txt
+See: QuestionThree.md
 
 
 
